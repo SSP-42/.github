@@ -1,12 +1,3 @@
-<head>
-    <style>
-      body {background-color: powderblue;}
-      h1   {color: white;}
-      h2   {color: white;}
-      p    {color: white;}
-    </style>
-</head>
-
 # The Stellar Synthnav Program
 <img src="rorckt.png" style="width:300px;height:300px;" alt="A rocket made of circuits launching into space."></img>
 ## About us (just me rn)
